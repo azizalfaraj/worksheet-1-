@@ -3,8 +3,8 @@ Screenshots for this task can be found in my repo
 
 # Worksheet 1 – An Echo of Assembler
 
-Module: UFCFWK-15-2 Operating Systems  
-Student: Abdulaziz Alfaraj
+Module: UFCFWK-15-2 Operating Systems
+Name: Abdulaziz Alfaraj
 
 This repo contains my solutions for Worksheet 1.  
 The work covers:
