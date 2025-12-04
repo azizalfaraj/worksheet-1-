@@ -1,5 +1,5 @@
 
-Screenshots for this task can be found in /screenshots/task1_output.png in my repo
+Screenshots for this task can be found in my repo
 
 # Worksheet 1 – An Echo of Assembler
 
